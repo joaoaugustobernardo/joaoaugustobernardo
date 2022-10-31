@@ -3,10 +3,10 @@
 - 🔭 Atualmente estou desenvolvendo meu portfólio acadêmico.
 - 🌱 Estou me dedicando em aprimorar HTML, CSS e JavaScript.
 - ⚡ Pretendo arrumar um estágio na aréa de hardware, Front-end e UI designer.
-
+##
 <div>
-  <a href="https://github.com/joaoaugustobernardo">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoaugustobernardo&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+ <a href="https://github.com/joaoaugustobernardo">
+<img height="180em" src="https://github-readme-stats.vercel.app/apiusername=joaoaugustobernardo&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoaugustobernardo&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
