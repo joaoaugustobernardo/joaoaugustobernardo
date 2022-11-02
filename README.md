@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou desenvolvendo meu portfólio acadêmico.
 - 🌱 Estou me dedicando em aprimorar HTML, CSS e JavaScript.
-- ⚡ Pretendo arrumar um estágio na aréa de hardware, Front-end e UI designer.
+- ⚡ Pretendo conseguir uma oportunidade na aréa de hardware, Front-end e UI designer.
 ##
 <div>
  <a href="https://github.com/joaoaugustobernardo">
